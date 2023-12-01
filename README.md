@@ -1,4 +1,4 @@
-# 2023 website
+# 2024 website
 
 All the code required to generate the website of the 2023 edition of Pass the SALT conference.
 
@@ -10,7 +10,7 @@ or visit https://gohugo.io/installation/linux/ and take the Extended edition.
 
 ## Get the source files
 
-Clone this Github repo: `git clone https://github.com/pass-the-salt/2023.git`
+Clone this Github repo: `git clone https://github.com/pass-the-salt/2024.git`
 
 ## Modify content
 
