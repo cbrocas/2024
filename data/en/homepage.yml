@@ -6,7 +6,7 @@ banner:
   image: "images/logo-pts23.png"
   button:
     enable: true
-    label: "2023 edition videos"
+    label: "Last edition videos"
     link: "https://passthesalt.ubicast.tv/channels/#2023"
 
 ############################# description ############################
